@@ -4,6 +4,11 @@ package com.in28minutes.maven;
  * Hello World test!
  *
  */
+
+/**
+ * welcome java!
+ *
+ */
 public class App 
 {
     public static void main( String[] args )
@@ -16,14 +21,3 @@ public class App
 	}
 }
 
-public class App2
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Welcome Java" );
-    }
-
-	public int calculateSomething() {
-		return 0;
-	}
-}
